@@ -1,0 +1,15 @@
+{
+    "class_notify_before": 600,
+    "class_off_open": false,
+    "class_on_open": false,
+    "class_store": [],
+    "drink_notify_interval": 5,
+    "drink_open": true,
+    "drink_words": [
+        "该喝水啦亲爱的",
+        "起爱的我爱你"
+    ],
+    "icon": "",
+    "min_notified": false,
+    "title": "丹丹喝水提醒"
+}
